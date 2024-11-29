@@ -1,0 +1,1 @@
+This project utilizes the Support Vector Machine (SVM) algorithm to classify MRI brain images into common tumor types such as meningioma, glioma, and pituitary tumor. The data is preprocessed and used to train the model, with performance evaluated using the svc.score method to measure accuracy on the test set.
